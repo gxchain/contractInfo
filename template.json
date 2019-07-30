@@ -1,0 +1,12 @@
+{
+  "name":"gxchain-foundation-vesting-contract",
+  "logo":"",
+  "title":{
+    "en":"vesting account of gxchain foundation",
+    "zh":"gxchain基金会锁仓合约"
+  },
+  "links":{
+    "home":"https://www.gxchain.org/foundation/",
+    "github":"https://github.com/gxchain/gxc-vesting-contract/blob/master/contract/vesting-without-table.cpp"
+  }
+}
